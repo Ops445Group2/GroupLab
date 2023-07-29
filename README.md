@@ -24,10 +24,10 @@
 
 # The Scope of the Project
 Essentially the scope of the project is to develop a rock, paper, scissors game so the company that our team works for (Games4You) can sell the game to other companies. <br>
-Firstly, our team create a plan that provide instructions and algorithm to explain how the game works <br>
-Moreover, our team designs a flow chart which demonstrates the steps of a process <br>
-In addition, our team developes the game, and ensure it has proper iterations and perform QA testings. <br>
-Lastly, the game is ready for deployment <br>
+1) our team create a plan that provide instructions and algorithm to explain how the game works <br>
+2) our team designs a flow chart which demonstrates the steps of a process <br>
+3) our team developes the game, and ensure it has proper iterations and perform QA testings. <br>
+4) the game is ready for deployment <br>
 
 # Participation
 Keith Lit: create a plan & design <br>
