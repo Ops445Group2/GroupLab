@@ -31,6 +31,6 @@ Essentially the scope of the project is to develop a rock, paper, scissors game 
 
 # Participation
 Keith Lit: create a plan & design <br>
-Ryan Plumb: <br>
+Ryan Plumb: Script <br> 
 Simranpreet Kaur: <br>
 Vikas Singh: <br>
