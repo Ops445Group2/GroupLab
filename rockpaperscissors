@@ -1,1 +1,63 @@
+#!/usr/bin/env python3
+
+
+import random
+
+def rockpaperscissors():
+
+    while True:
+        user = input("Please pick one of the following (rock, paper or scissors): ")
+        
+        if user in ["rock", "paper", "scissors"]:
+            return user
+            
+        else:
+            print("You have not picked a valid option")
+
+def outcome(user, ai):
+    if user == ai:
+        return "You have both tied"
+        
+        
+    elif user == "rock":
+        if ai == "scissors":
+            return "You have beaten your opponent!"
+        else:
+            return "You have lost to your opponent! Better luck next time."
+            
+            
+    elif user == "paper":
+        if ai == "rock":
+            return "You have beaten your opponent!"
+        else:
+            return "You have lost to your opponent! Better luck next time."
+            
+            
+    elif user == "scissors":
+        if ai == "paper":
+            return "You have beaten your opponent!"
+        else:
+            return "You have lost to your opponent! Better luck next time."
+
+
+def game():
+    options = ["rock", "paper", "scissors"]
+    
+    while True:
+        user = rockpaperscissors()
+        ai = random.choice(options)
+        print("Opponent has chosen: " + str(ai))
+        results = outcome(user, ai)
+        print(results)
+
+
+
+        again = input("Would you like to play again?")
+        if again != "yes":
+            break
+
+if __name__ == "__main__":
+
+    game()
+    exit()
 
