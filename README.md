@@ -30,8 +30,8 @@ It not showing no errors
 ```
 2. A new issue added comments for the developer to add a loop and exit statement dependingon if the user wants to continue to play another round or not.
 
-<img src="2.jpeg"
-     alt="Issue creeted"
+<img src="Issue creted.jpeg"
+     alt="Issue creted"
      style="float: left; margin-right: 10px;" />
     
 
@@ -40,23 +40,23 @@ It not showing no errors
 ```
 If user want to play agian they can type "YES" 
 ```
-<img src="4.jpeg"
-     alt="Issue creeted"
+<img src="Outcome on the user response'YES'"
+     alt="Outcome on the user response'YES'"
      style="float: left; margin-right: 10px;" />
 
 ```
 If user do not want to play agian they can type "NO" 
 ```
 
-<img src="1.jpeg"
-     alt="Issue creeted"
+<img src="Outcome on the user response'no'"
+     alt="Outcome on the user response'no'"
      style="float: left; margin-right: 10px;" />
 
 
 4. For the issue created, close it if successfully completed
 
-<img src="3.jpeg"
-     alt="Issue creeted"
+<img src="Issue Closed.jpeg"
+     alt="Issue Closed"
      style="float: left; margin-right: 10px;" />
 
 
