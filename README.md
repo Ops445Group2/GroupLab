@@ -66,7 +66,7 @@ If user do not want to play agian they can type "NO"
      style="float: left; margin-right: 10px;" />
      
 3. Show the commands used
-  <img src="push command used.jpeg"
+  <img src="push command uesd.jpeg"
      alt="screenshot"
      style="float: left; margin-right: 10px;" /> 
 
