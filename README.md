@@ -22,6 +22,44 @@
 9) The game() function will call the rockpaperscissors() function to store the user's option.<br>
 10) The game() function will call the outcome() function to determine the winner.<br>
 
+# QA Testing
+1. Run your game locally. If any errors, create an issue in GitHub.
+
+```json
+It not showing no errors
+```
+2. A new issue added comments for the developer to add a loop and exit statement dependingon if the user wants to continue to play another round or not.
+
+<img src="2.jpeg"
+     alt="Issue creeted"
+     style="float: left; margin-right: 10px;" />
+    
+
+3. Run the game and show that the game will continue or exit depending on the user response.
+
+```
+If user want to play agian they can type "YES" 
+```
+<img src="4.jpeg"
+     alt="Issue creeted"
+     style="float: left; margin-right: 10px;" />
+
+```
+If user do not want to play agian they can type "NO" 
+```
+
+<img src="1.jpeg"
+     alt="Issue creeted"
+     style="float: left; margin-right: 10px;" />
+
+
+4. For the issue created, close it if successfully completed
+
+<img src="3.jpeg"
+     alt="Issue creeted"
+     style="float: left; margin-right: 10px;" />
+
+
 # The Scope of the Project
 Essentially the scope of the project is to develop a rock, paper, scissors game so the company that our team works for (Games4You) can sell the game to other companies. <br>
 1) our team create a plan that provide instructions and algorithm to explain how the game works <br>
