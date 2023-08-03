@@ -38,9 +38,9 @@ It not showing no errors
 3. Run the game and show that the game will continue or exit depending on the user response.
 
 ```
-If user want to play agian they can type "YES.jpeg" 
+If user want to play agian they can type "YES" 
 ```
-<img src="Outcome on the user response'YES'"
+<img src="Outcome on the user response'YES'.jpeg"
      alt="Outcome on the user response'YES'"
      style="float: left; margin-right: 10px;" />
 
