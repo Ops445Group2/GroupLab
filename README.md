@@ -59,6 +59,18 @@ If user do not want to play agian they can type "NO"
      alt="Issue Closed"
      style="float: left; margin-right: 10px;" />
 
+# Deploy
+1. a screenshot of the updated file in GitHub.
+   <img src="Last commit.jpeg"
+     alt="commit"
+     style="float: left; margin-right: 10px;" />
+     
+3. Show the commands used
+  <img src="push command used.jpeg"
+     alt="screenshot"
+     style="float: left; margin-right: 10px;" /> 
+
+
 
 # The Scope of the Project
 Essentially the scope of the project is to develop a rock, paper, scissors game so the company that our team works for (Games4You) can sell the game to other companies. <br>
