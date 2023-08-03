@@ -40,7 +40,7 @@ It not showing no errors
 ```
 If user want to play agian they can type "YES" 
 ```
-<img src="Outcome on the user response'YES'.jpeg"
+<img src="Outcome on the user response'NO'.jpeg"
      alt="Outcome on the user response'YES'"
      style="float: left; margin-right: 10px;" />
 
@@ -48,7 +48,7 @@ If user want to play agian they can type "YES"
 If user do not want to play agian they can type "NO" 
 ```
 
-<img src="Outcome on the user response'NO'.jpeg"
+<img src="Outcome on the user response'YES'.jpeg"
      alt="Outcome on the user response'no'"
      style="float: left; margin-right: 10px;" />
 
