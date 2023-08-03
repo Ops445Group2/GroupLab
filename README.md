@@ -82,6 +82,6 @@ Essentially the scope of the project is to develop a rock, paper, scissors game 
 # Participation
 Keith Lit: create a plan & design <br>
 Ryan Plumb: Script <br> 
-Vikas Singh: QA testing <br>
+Vikas Singh: QA testing & Deploy <br>
 Simranpreet Kaur: <br>
 
