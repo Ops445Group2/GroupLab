@@ -23,6 +23,8 @@
 10) The game() function will call the outcome() function to determine the winner.<br>
 
 ### Development – Iteration #1
+2)  Clone your repository to your local machine
+
 
 a)
 ```
@@ -34,26 +36,36 @@ b) <img src="Repo-clone.png"
      style="float: left; margin-right: 10px;" />
 
 3) Command to create branch "Iteration1"
+
+a)
 ```
 git branch iteration1
 ```
 
- 4) Switch to Branch
+4) Switch to Branch
+
+a) 
 
 <img src="Switch-Branch.png"
      alt="Issue creted"
      style="float: left; margin-right: 10px;" />
 
-6)  
+6)  commit your changes to your Iteration1 Branch
+
+a)
 <img src="Commit-msg.png"
      alt="Issue creted"
      style="float: left; margin-right: 10px;" />
+
+b)
 
 <img src="commit-command.png"
      alt="Issue creted"
      style="float: left; margin-right: 10px;" /> 
 
-  7)   
+ 7) 	Push these changes to your Iteration1 Branch 
+
+a)
 
 <img src="Iteration1.png"
      alt="Issue creted"
@@ -61,36 +73,59 @@ git branch iteration1
 
 
 
-
+b)
 <img src="git-push.png"
      alt="Issue creted"
      style="float: left; margin-right: 10px;" /> 
 
 
 
+ 
+ 
  ### Development – Iteration #2   
+
+1) Create a new branch called “Iteration2
+
+a)
+```
+git branch Iteration2
+```
+
+2) Switch to your new branch       
+
+a) 
 
 <img src="Iteration2.png"
      alt="Issue creted"
      style="float: left; margin-right: 10px;" />   
 
- 4
+ 4) commit your changes to your Iteration2 Branch.
+    
 
+ a)
+ 
  <img src="loop-commit.png"
      alt="Issue creted"
      style="float: left; margin-right: 10px;" />   
 
 
+b)
 
  <img src="Commit.png"
      alt="Issue creted"
      style="float: left; margin-right: 10px;" />   
 
- 5)    
+ 5) Push these changes to your Iteration2 Branch
+
+a)
 
 <img src="Iteration-loop.png"
      alt="Issue creted"
      style="float: left; margin-right: 10px;" /> 
+
+
+b)
+
 
 <img src="git-push2.png"
      alt="Issue creted"
@@ -159,5 +194,5 @@ Essentially the scope of the project is to develop a rock, paper, scissors game 
 Keith Lit: create a plan & design <br>
 Ryan Plumb: Script <br> 
 Vikas Singh: QA testing & Deploy <br>
-Simranpreet Kaur: <br>
+Simranpreet Kaur: Development – Iteration #1 & Development – Iteration #2  <br>
 
