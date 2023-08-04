@@ -22,6 +22,80 @@
 9) The game() function will call the rockpaperscissors() function to store the user's option.<br>
 10) The game() function will call the outcome() function to determine the winner.<br>
 
+### Development – Iteration #1
+
+a)
+```
+git clone <repository_url>
+```
+
+b) <img src="Repo-clone.png"
+     alt="Issue creted"
+     style="float: left; margin-right: 10px;" />
+
+3) Command to create branch "Iteration1"
+```
+git branch iteration1
+```
+
+ 4) Switch to Branch
+
+<img src="Switch-Branch.png"
+     alt="Issue creted"
+     style="float: left; margin-right: 10px;" />
+
+6)  
+<img src="Commit-msg.png"
+     alt="Issue creted"
+     style="float: left; margin-right: 10px;" />
+
+<img src="commit-command.png"
+     alt="Issue creted"
+     style="float: left; margin-right: 10px;" /> 
+
+  7)   
+
+<img src="Iteration1.png"
+     alt="Issue creted"
+     style="float: left; margin-right: 10px;" /> 
+
+
+
+
+<img src="git-push.png"
+     alt="Issue creted"
+     style="float: left; margin-right: 10px;" /> 
+
+
+
+ ### Development – Iteration #2   
+
+<img src="Iteration2.png"
+     alt="Issue creted"
+     style="float: left; margin-right: 10px;" />   
+
+ 4
+
+ <img src="loop-commit.png"
+     alt="Issue creted"
+     style="float: left; margin-right: 10px;" />   
+
+
+
+ <img src="Commit.png"
+     alt="Issue creted"
+     style="float: left; margin-right: 10px;" />   
+
+ 5)    
+
+<img src="Iteration-loop.png"
+     alt="Issue creted"
+     style="float: left; margin-right: 10px;" /> 
+
+<img src="git-push2.png"
+     alt="Issue creted"
+     style="float: left; margin-right: 10px;" />      
+
 # QA Testing
 1. Run your game locally. If any errors, create an issue in GitHub.
 
@@ -33,8 +107,10 @@ It not showing no errors
 <img src="Issue creted.jpeg"
      alt="Issue creted"
      style="float: left; margin-right: 10px;" />
-    
 
+
+
+ 
 3. Run the game and show that the game will continue or exit depending on the user response.
 
 ```
